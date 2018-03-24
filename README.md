@@ -10,3 +10,10 @@ This is an Image classifier created using convolutional neural network that can 
 * Pygame
 * Numpy
 * Scipy
+
+## How to run?
+
+* Download the zip or clone the repo
+* Create a folder C:\tmp
+* Copy all chekpoint files into tmp folder
+* run digit_recognizer_gui
